@@ -1,0 +1,11 @@
+.divPaginaItensImagem {
+    width: 80%;
+    height: 20rem;
+    text-align: center;
+    margin: 1rem;
+}
+
+.imagemPaginaItens {
+    width: 50%;
+    margin: 2rem;
+}

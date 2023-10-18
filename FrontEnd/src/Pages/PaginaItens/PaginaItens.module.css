@@ -1,0 +1,7 @@
+.sectionContainerItens {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: top;
+    margin-top: 1rem;
+}

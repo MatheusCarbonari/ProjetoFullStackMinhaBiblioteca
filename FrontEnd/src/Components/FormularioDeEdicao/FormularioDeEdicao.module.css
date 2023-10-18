@@ -1,0 +1,15 @@
+.containerFormDeEdicao {
+    width: 100%;
+}
+
+.formularioDeEdicao {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.containerFieldSet {
+    border: none;
+}

@@ -1,0 +1,15 @@
+.divInputSubmit {
+    margin: 1.5rem;
+    text-align: center;
+}
+
+.divInputSubmit input {
+    width: 50%;
+    height: 2rem;
+    border-radius: 1rem;
+    border: 1px solid var(--azul);
+    color: var(--azul);
+    background-color: var(--white);
+    letter-spacing: .2rem;
+    font-size: 1rem;
+}

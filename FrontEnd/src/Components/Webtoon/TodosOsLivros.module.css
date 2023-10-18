@@ -1,0 +1,9 @@
+.livrosNaoLidosContainer {
+    text-align: center;
+    margin: 1rem;
+}
+
+.swiperSlideNaoLidos {
+    margin-bottom: 2rem;
+    border-radius: .5rem;
+}

@@ -1,0 +1,10 @@
+.divPaginaItens {
+    width: 80%;
+    margin-left: 2rem;
+    display: flex;
+}
+
+.tituloPaginaItens {
+    color: var(--azul);
+    margin-right: .3rem;
+}

@@ -1,0 +1,26 @@
+.divContainerCategoria {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 1rem;
+    margin-top: 1.5rem;
+}
+
+.divContainerCategoria label {
+    font-size: 1rem;
+    color: var(--azul);
+    margin-bottom: .5rem;
+}
+
+.selectCategoria {
+    background-color: var(--white);
+    width: 15rem;
+    height: 2.625rem;
+    border-radius: .5rem;
+    border: 1px solid var(--azul);
+    cursor:grab;
+}
+
+.selectCategoria option {
+    background-color: var(--background);   
+}

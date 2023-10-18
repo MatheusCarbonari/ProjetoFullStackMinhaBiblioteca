@@ -1,0 +1,28 @@
+.buttonContainer {
+    background-color: var(--azul);
+    width: 10rem;
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 1rem;
+    text-decoration: none;
+    border: 1px solid var(--azul);
+}
+
+.buttonContainer p {
+    text-align: center;
+    width: 100%;
+    color: black;
+    font-size: 1.3rem;
+    transition: .5s;
+}
+
+.buttonContainer:hover {
+    background-color: transparent;
+    border: 1px solid var(--azul);
+}
+
+.buttonContainer p:hover {
+    color: var(--azul);
+}
